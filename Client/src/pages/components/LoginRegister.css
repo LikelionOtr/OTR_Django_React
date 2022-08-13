@@ -1,0 +1,15 @@
+.Buttons{
+    text-align: right;
+    margin: 0 auto;
+    padding-right : 10%;
+}
+
+.lightbutton{
+    border: 1px solid black;
+    font-weight : lighter;
+}
+
+.darkbutton{
+    border: 1px solid black;
+    font-weight: lighter;
+}

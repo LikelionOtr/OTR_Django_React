@@ -1,0 +1,37 @@
+.modal-header {
+    font-weight: bold;
+    text-align: center;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    color : #f25959;
+}
+
+.orange {
+    color: #ffa858;
+}
+
+.yellow {
+    color: #e2cc00;
+}
+
+.green {
+    color: #6ab271;
+}
+
+.blue {
+    color: #75bcfd;
+}
+
+.navy {
+    color: #585bac;
+}

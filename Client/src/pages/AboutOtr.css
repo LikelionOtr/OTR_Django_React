@@ -1,0 +1,13 @@
+.contents {
+    text-align: center;
+}
+
+.otrcard {
+    margin: 0 auto;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    width : 100%;
+}
